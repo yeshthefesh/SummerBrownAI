@@ -1,0 +1,1 @@
+Yesterday, I learned about early attempts to create AI in GOFAI.
